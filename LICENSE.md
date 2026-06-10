@@ -1,4 +1,4 @@
-# 
+# Código aberto Pixelle-Video fluxo de trabalho. Com ajuste fino e busca semântica — otimizado para máximo desempenho e eficiência.
 
 
 
